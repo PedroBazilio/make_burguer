@@ -1,17 +1,21 @@
 <template>
-  <banner/>
+  <Banner/>
   <div class="main-container">
    <h1>Monte seu Pedido:</h1>
-   <p>formulario</p>
+   <Form/>
   </div>
 </template>
 
 <script>
 import Banner from '../components/Banner.vue'
+import Form from '../components/Forms.vue'
 
 export default {
   name: 'Home',
-  components: {Banner}  
+  components: {
+    Banner,
+    Form
+  },  
   
 }
 </script>

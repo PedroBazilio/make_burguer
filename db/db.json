@@ -77,5 +77,63 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "ssss",
+      "carne": "carne.tipo",
+      "pao": "Italiano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "ssss",
+      "carne": "carne.tipo",
+      "pao": "Italiano",
+      "opcionais": [
+        "Picles"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "cccccc",
+      "carne": "carne.tipo",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Picles"
+      ],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "aaa",
+      "carne": "carne.tipo",
+      "pao": "Italiano",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": null,
+      "carne": "carne.tipo",
+      "pao": null,
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": null,
+      "carne": "Picanha",
+      "pao": null,
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 6
+    }
+  ]
 }
