@@ -20,7 +20,7 @@ export default {
         align-items: center;
         font-size: 30px;
         width: 100%;
-        position: absolute;
+        position: static;
         bottom: 0;
     }
 </style>
