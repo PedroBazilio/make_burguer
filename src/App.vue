@@ -11,7 +11,7 @@ export default {
   components: {Header, Footer},
   data(){
     return{
-      logoSrc: '/img/TwemojiFlagUkraine.svg',
+      logoSrc: '/img/LogosDeliciousBurger.svg',
       appName: 'Free Ukraine'
     }
   }
